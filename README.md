@@ -1,9 +1,9 @@
-# Classification-of-IRIS-dataset-using-KNNC
+# Classification_of_IRIS_dataset_using_KNNC :
 Classification of different species of Iris flowers using KNN Classifier
 
 Implemented K-Nearest Neighbours Classifier from scratch to classify different species of Iris flowers.
 
-__Steps to run the program :__
+## Steps to run the program :
 
 1.Install any python compatible IDE. 
 
